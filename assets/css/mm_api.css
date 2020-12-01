@@ -1,0 +1,8 @@
+.cncexlayout {
+  table-layout:fixed !important;
+}
+
+.cncexlayout table, th, td {
+  width:20% !important;
+  border: 1px solid black !important;
+}

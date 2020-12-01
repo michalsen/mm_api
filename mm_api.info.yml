@@ -1,0 +1,10 @@
+name: MM / SF API
+type: module
+description: 'Machinery Manager/ Salesforce Field Comparison'
+core: 8.x
+package: michalsen
+
+# Stylesheets
+stylesheets:
+  all:
+    - assets/css/mm_api.css
